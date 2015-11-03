@@ -1,0 +1,14 @@
+2014 Jan 1   Wednesday   New Year's Day  National holiday     
+2014 Jan 20  Monday  Martin Luther King Day  National holiday   
+2014 Feb 17  Monday  Presidents' Day (Washington's Birthday) National holiday   
+2014 Apr 20  Sunday  Easter Sunday   Observance, Christian   
+2014 May 26  Monday  Memorial Day    National holiday   
+2014 Jul 4   Friday  Independence Day    National holiday     
+2014 Sep 1   Monday  Labor Day   National holiday     
+2014 Oct 13  Monday  Columbus Day    National holiday    All except AK, AR, CA, DE, FL, HI, MI, MN, ND, NV, OR, SD, TX, VT, WA, WI, WY
+2014 Oct 31  Friday  Halloween   Observance   
+2014 Nov 11  Tuesday Veterans Day    National holiday     
+2014 Nov 27  Thursday    Thanksgiving Day    National holiday     
+2014 Dec 24  Wednesday   Christmas Eve   Observance, Christian    
+2014 Dec 25  Thursday    Christmas Day   National holiday, Christian  
+2014 Dec 31  Wednesday   New Year's Eve  Observance   
