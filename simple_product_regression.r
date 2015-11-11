@@ -1,3 +1,4 @@
+setwd("~/GitHub/marketing_project")
 prod_5 = read.csv('product_5.csv')[,5:44]
 prod_5_regression = lm(units~., data = prod_5)
 summary(prod_5_regression)

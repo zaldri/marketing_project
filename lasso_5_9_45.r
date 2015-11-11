@@ -1,3 +1,4 @@
+setwd("~/GitHub/marketing_project")
 library(glmnet)
 
 ## lasso product_5
